@@ -1,0 +1,92 @@
+
+
+
+->Konular
+üyeler, haftalık(salı) konu ekler. admin de bu konularından birini seçer ve o haftalık konuyu belirler
+
+->Etkinlik
+sadece admin ekleyecek ama multi fotoğraf olacak
+
+->İş akışı
+
+(başlık,işin metrekaresi, oda parsel,ilçe,yapı sınıfı,mutahit bilgileri(ad soyad numara),yapı adresi,pdfler(sözleşme ve fatura))
+
+
+->Yarışma 
+yarışmada içerik sayfası (şartları admin belirleyecek)
+sadece admin ekliyor. önyüzde üye ve herkes katılabiliyor
+admin afişe ve detaylarını ekliyor ve önyüzde katıl buttonuyla katılıyor en fazla 3 ve en az 1 veya tekli fotoğraf eklenebiliyecek  (admin belirlebilir).
+başlangıç ve bitiş tarihi belirlenecek(admin tarafından). 
+katılan kişi, ad soyad,telefon(05** maskelemesi),email(aktiyasyon kodu istenecek)
+
+->Haber(Duyuru)
+önemliyse admin onu belirleyecek ve giriş anında modal olarak gösterilecek
+
+->Dekontlar
+üyeler herkes kendi dekontunu ekleyecek. ama hepsi adminde listenecek
+ve onay verip veya rededecek
+
+->Hakkımzda
+Yönetim kurulu fotoğraları
+ve Hakkımzdaki detayları
+
+->veri tablosu
+her hafta giren ve çıkan paraları girecek (geçen ayları getirecek)
+
+->üyeler
+rumuz,iban,eposta,şifre,tc,vergi numarası (hepsi zorunlu)
+
+
+
+--------------------------------------------------------------------
+
+Yarışma da afiş olacak ve de pdf indir (opsiyonel) buttonu olacak
+yarışmada admin puan verecek ve yüksekten düşege göre sıralayacak
+
+
+konuya multi image ekleyecek, pdf ekleyebilecek(opsiyonel)
+konular görüntüleyen admin kendi eklediği konuyu yayınlacak
+konular listesi ikiye ayrılacak ve bir kısmı seçilen konular olacak
+
+
+statik sayfalar
+
+hakkımızda;
+    biz kimiz
+    ->en üste büyük Yönetim kurulu ismi fotoğrı 
+    ->başkanın özgeçmişi olacak
+    ->alta yardımcıların fotoğrafları küçük olacak
+    ->mimarlar ananonim şirketi hakkında bilgiler
+
+
+Oda kaydı nasıl yapılır ? 
+
+  -> maddeler ile  açıklama ve altında pdf olacak
+  -> malli müşavir adresi ve tabelası admin değiştebilecek 
+
+mevzualtlar link olacak
+hesaplama link olacak
+
+
+
+ui 
+----
+etkinlikler liste kaymalı olacak
+etkinlik detay resimler sıralanacak tıklayınca buyuk resimler şeklinde gösterilecek
+etkinlik başlangıç ve bitiş tarih olmayacak
+
+
+
+
+
+
+
+yarışma tel kayıt mask
+yarışma user login yanlış veride json response
+
+
+
+
+
+
+
